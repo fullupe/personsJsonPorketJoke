@@ -1,5 +1,5 @@
 
-{
+[ "value" :
 
   {"firstname": "Barack", "lastname":"Obama", "imagedp": "https://res.cloudinary.com/fullupe/image/upload/v1613053936/BarackObama_eejwlw.jpg"},
          {"firstname": "Charlie", "lastname":"Chapline", "imagedp": "https://res.cloudinary.com/fullupe/image/upload/v1613053937/CharlieChaplin_zjzats.jpg"},
@@ -40,4 +40,4 @@
          {"firstname":"Papa", "lastname":"N)!", "imagedp": "https://res.cloudinary.com/fullupe/image/upload/v1613053935/PapaNo_e6gqyf.png"},
         {"firstname":"Corona", "lastname":"virus", "imagedp": "https://res.cloudinary.com/fullupe/image/upload/v1613053937/CoronaViruse_upctw7.jpg"},
      
-  }
+  ]
