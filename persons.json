@@ -1,0 +1,11 @@
+         {
+         
+         "persons":[
+         
+         {"firstname": "Barack", "lastname":"Obama", "imagedp": "require("./image/BarackObama.jpg")"},
+         {"firstname": "Charlie", "lastname":"Chapline", "imagedp": "require("./image/CharlieChaplin.jpg")"},
+         {"firstname": "Donald", "lastname":"Trump", "imagedp": "require("./image/DonaldTrump.jpg")"},
+         {"firstname": "Joe", "lastname":"Biden", "imagedp: "require("./image/JoeBiden.jpg")"},
+      ]
+      
+      }
